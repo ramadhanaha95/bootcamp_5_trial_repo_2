@@ -5,4 +5,6 @@
 
 //saya menambahkan baris code dibawah ini
 
+echo "test git";
+
 ?>
